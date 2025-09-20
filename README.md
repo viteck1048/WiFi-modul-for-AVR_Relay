@@ -10,7 +10,7 @@ This project is a WiFi module for the relay control system [AVR_Relay](https://g
 
 ## Configuration
 
-To configure the parameters, edit the `conf.h` file and specify your encryption keys and paths for the server https://github.com/viteck1048/javaHTTPSServer:
+To configure the parameters, edit the `conf.h` file and specify your encryption keys and paths for the server https://github.com/viteck1048/javaIoTserver:
 
 ```c
 #define KEY_1 123456
@@ -38,7 +38,7 @@ This project is distributed under the MIT license. See the `LICENSE` file for mo
 
 ## Конфігурація
 
-Для налаштування параметрів віддреедагуйте файл `conf.h` та вкажіть свої ключі шифрування та шляхи для сервера https://github.com/viteck1048/javaHTTPSServer:
+Для налаштування параметрів віддреедагуйте файл `conf.h` та вкажіть свої ключі шифрування та шляхи для сервера https://github.com/viteck1048/javaIoTserver:
 
 ```c
 #define KEY_1 123456
